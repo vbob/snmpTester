@@ -7,7 +7,8 @@ See parsed SNMP responses on the browser
 
 ### Prerequisites
 
-- [net-snmp](http://www.net-snmp.org/download.html)
+- [Node.js](http://nodejs.org)
+- [net-snmp](http://www.net-snmp.org/)
 
 Linux:
 
