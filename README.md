@@ -1,7 +1,7 @@
 # SNMP Tester
 See parsed SNMP responses on the browser
 
-![](img/print.jpeg | width=300)
+![](img/print.jpeg)
 
 ## Installation
 
