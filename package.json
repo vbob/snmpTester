@@ -1,0 +1,27 @@
+{
+  "name": "snmp-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "node build/index.js",
+    "watch": "tsc --watch",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "net-snmp": "^1.2.4",
+    "path": "^0.12.7",
+    "pug": "^2.0.3",
+    "shelljs": "^0.8.3",
+    "typescript": "^3.3.3333"
+  }
+}
